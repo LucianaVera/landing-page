@@ -23,6 +23,7 @@ header {
     justify-content: space-between;
     align-items: center;
 
+
 }
 
 .logo img {
@@ -202,7 +203,7 @@ main {
 @media (max-widht: 1024px) {
 
     .container__header,
-    .main {
+    main {
         padding: 20px;
     }
 
