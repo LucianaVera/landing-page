@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #f1e9e9;
+    background: #ececec;
 }
 
 header {
@@ -65,7 +65,7 @@ header {
 
 .btn__header-register:hover,
 .btn__register-cover:hover {
-    background: rgb(247, 171, 162);
+    background: #7cb8d0;
     color: black;
 }
 
@@ -129,7 +129,7 @@ main {
 }
 
 .media__cover img {
-    width: 110%;
+    width: 100%;
     margin-top: -80px;
 }
 
@@ -182,7 +182,7 @@ main {
 }
 
 .banner__text a:hover {
-    color: rgb(247, 171, 162);
+    color: #7cb8d0;
 }
 
 .banner__icon-fire {
@@ -200,7 +200,7 @@ main {
 
 }
 
-@media (max-widht: 1024px) {
+@media (max-width: 1024px) {
 
     .container__header,
     main {
@@ -265,7 +265,7 @@ main {
     }
 }
 
-@media (max-widht: 920px) {
+@media (max-width: 920px) {
     .text__information-cover {
         width: 100%;
     }
